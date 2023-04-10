@@ -1,6 +1,6 @@
 # Cloud Computing
 
-## Building a Web Application by using AWS services
+## DAY 1: Building a Web Application by using AWS services
 
 A simple web-app for calculating the power of a number built by using various **5 different AWS services** like -
 **Amplify**, **Lambda**, **IAM**, **API Gateway** and **DynamoDB**.
