@@ -45,7 +45,8 @@ sudo systemctl status apache2
 ```
 Copy public IP of the EC2 and open in your browser. Apache2 Ubuntu default page appears
 **Git is already installed in Ubuntu Server**
-So navigating to /var/www/html and cloning [https://github.com/R0-H-1T/quickStart] (https://github.com/R0-H-1T/quickStart.git)
+So navigating to /var/www/html and cloning 
+[https://github.com/R0-H-1T/quickStart] (https://github.com/R0-H-1T/quickStart.git)
 ```bash
 └── html
     ├── index.html
