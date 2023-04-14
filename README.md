@@ -1,5 +1,12 @@
 # Cloud Computing
 
+[Day 1](#DAY-1:-Building-a-Web-Application-by-using-AWS-services)
+[Day 2](#DAY-2:-Hosting-a-static-website-on-Amazon-EC2-instance)
+[Day 3](#DAY-3:-Connecting-S3-Bucket-to-EC2-instance)
+
+
+
+
 ## DAY 1: Building a Web Application by using AWS services
 
 A simple web-app for calculating the power of a number built by using various **5 different AWS services** like -
@@ -43,8 +50,9 @@ sudo apt-get update
 sudo apt-get install apache2
 sudo systemctl status apache2
 ```
-Copy public IP of the EC2 and open in your browser. Apache2 Ubuntu default page appears
-**Git is already installed in Ubuntu Server**
+Copy public IP of the EC2 and open in your browser. 
+Apache2 Ubuntu default page appears.
+**Git is already installed in Ubuntu Server.**
 So navigating to /var/www/html and cloning - [https://github.com/R0-H-1T/quickStart](https://github.com/R0-H-1T/quickStart.git)
 ```bash
 └── html
@@ -74,3 +82,6 @@ sudo systemctl stop apache2
 ![ec2 config](https://github.com/R0-H-1T/Cloud-Computing/blob/main/AWS/Hosting_On_Ec2/sampleDonutsNCandy.png)
 
 <hr>
+
+
+## DAY 3: Connecting S3 Bucket to EC2 instance 
